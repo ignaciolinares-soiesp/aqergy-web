@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aqergy.com/sitemap.xml

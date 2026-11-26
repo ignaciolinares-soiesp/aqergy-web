@@ -1,0 +1,10 @@
+Fuentes de la web de AQERGY, servidas desde la propia web en woff2. Caladea, recortada al alfabeto latino;
+Carlito, entera y sin modificar (solo cambia el formato), como pide su licencia por llevar nombre reservado.
+
+Caladea — Copyright (c) 2012 Huerta Tipográfica. Apache License 2.0:
+https://www.apache.org/licenses/LICENSE-2.0
+
+Carlito — Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic, with Reserved Font Name "Carlito".
+SIL Open Font License 1.1: https://openfontlicense.org
+
+Origen: los ficheros .ttf que instala LibreOffice. Convertidos con fontTools.
